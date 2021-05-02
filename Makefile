@@ -2,7 +2,7 @@ HEADERS_FOLDER = headers/
 
 HEADERS = 
 
-SRC = src/main.cpp 
+SRC = src/thread.cpp 
 
 default: program
 
